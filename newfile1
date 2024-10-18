@@ -1,5 +1,7 @@
 import batman
 import numpy as np
+import h5py
+h5py.run_tests()
 import matplotlib as plt
 from batman import TransitParams
 
